@@ -1,0 +1,19 @@
+.DogDetails {
+    margin: 2rem auto;
+}
+
+.DogDetails-img {
+    width: 15rem;
+}
+
+.DogDetails-info {
+    margin: auto;
+    width: 40%;    
+}
+
+.DogDetails-goBackBtn {    
+    color: white;
+    background-color: rgb(175, 219, 231);
+    border-radius: 5px;
+    text-decoration: none;
+}

@@ -1,0 +1,23 @@
+.Nav {
+  background-color: rgb(82, 77, 77);
+  /* text-align: center; */
+  font-weight: bold;
+}
+
+.Nav a {
+  padding: 0.5em 0;
+  width: 10em;
+  display: inline-block;
+  color: rgba(255, 255, 255, 0.524);
+  text-decoration: none;
+}
+
+.Nav a:hover {
+  background-color: rgb(58, 56, 56);
+  color: white;
+}
+
+.Nav a.active {
+  font-weight: bold;
+  color: white;
+}
